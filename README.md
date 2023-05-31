@@ -1,0 +1,1 @@
+# an-lise-explorat-ria-loggi
