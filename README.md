@@ -1,4 +1,4 @@
-# **Análise Exploratória de Dados de Logística**
+# **Análise Exploratória de Dados de Logística - Loggi**
 
 ---
 
@@ -20,7 +20,7 @@
 </ol>
 
   
-  #  \. **Resumo**
+  # **Resumo**
 
    > O Loggi Benchmark for Urban Deliveries (BUD) é uma iniciativa da empresa Loggi para disponibilizar dados e códigos relacionados a problemas de logística urbana. Disponível no GitHub, o BUD sintetiza dados de fontes públicas e oferece soluções para problemas típicos enfrentados por empresas de logística, como otimização de rotas de entrega e alocação de entregas em veículos com capacidade limitada.
 
@@ -28,7 +28,7 @@
   
 ---
   
- #  \. **A etapa de exploração, análise dos dados, visualização e geração de insights pode ser acessada no link abaixo:**
+ ### **A etapa de exploração, análise dos dados, visualização e geração de insights pode ser acessada no link abaixo:**
     
  > Kaggle Notebook ([link](https://www.kaggle.com/code/jaquessonoliveira/projeto-an-lise-explorat-ria-de-dados-loggi)).
   
