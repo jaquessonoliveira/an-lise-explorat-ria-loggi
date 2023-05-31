@@ -28,15 +28,8 @@
   
 ---
   
- - **Processamento**:
-    > Kaggle Notebook ([link](https://www.kaggle.com/code/jaquessonoliveira/projeto-an-lise-explorat-ria-de-dados-loggi)).
+ #  \. **A etapa de exploração, análise dos dados, visualização e geração de insights pode ser acessada no link abaixo:**
+    
+ > Kaggle Notebook ([link](https://www.kaggle.com/code/jaquessonoliveira/projeto-an-lise-explorat-ria-de-dados-loggi)).
   
 ---
-  
-#  \. **Insights**
-  
-   > **Insight 1:** Analisando o posicionamento dos hubs, a distribuição das entregas no mapa, e a proporção de entregas por região no gráfico de barras, vemos que a maioria das entregas está concentrada nos hubs df-1 e df-2, e que a distância entre os endereços de entrega e os hubs, é bem menor comparado ao hub df-0. 
-
-   > **Insight 2:** Em contrapartida, apesar de o hub df-0 ter o menor número de entregas comparado aos demais, a distância entre o hub e os endereços de entrega é muito maior, o que consequentemente demanda mais tempo nas entregas, e dificuldades no trajeto, justificando o menor número de entregas, apesar de possuir a mesma capacidade de veículos que os demais. 
-
-   > **Insight 3:** Através do Histograma, vemos que em todas as regiões, o tamanho (unidade de peso e volume não especificado nos dados) da entrega comparado a quantidade é muito parecido, e através desses dados, podemos alocar as entregas nos veículos adequados, de acordo com tamanho, distância, podendo poupar tempo, gasto com combustível, e manutenção de veículos. Já no gráfico 'countplot' da pra ver a diferença de quantidade de entrega em cada região, separados pelo tamanho da entrega.
